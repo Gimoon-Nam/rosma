@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20200804남기문 퍼즐", "20200804남기문 퍼즐.vcxproj", "{77B61FC8-ADF1-4842-9392-4391C75B2565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Debug|x64.ActiveCfg = Debug|x64
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Debug|x64.Build.0 = Debug|x64
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Debug|x86.ActiveCfg = Debug|Win32
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Debug|x86.Build.0 = Debug|Win32
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Release|x64.ActiveCfg = Release|x64
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Release|x64.Build.0 = Release|x64
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Release|x86.ActiveCfg = Release|Win32
+		{77B61FC8-ADF1-4842-9392-4391C75B2565}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADCD696-35A8-4F40-A427-9A878B557E91}
+	EndGlobalSection
+EndGlobal
